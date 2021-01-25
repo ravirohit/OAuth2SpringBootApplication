@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: oauth2springbootJWTResourceServer Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ravis
+Implementation-Vendor-Id: com.learn
+Build-Jdk: 1.8.0_261
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
